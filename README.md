@@ -1,18 +1,18 @@
 # Character Roster
 
-490 playable characters.
+515 playable characters.
 
-## Pokemon (290)
+## Pokemon (311)
 
-`pikachuash` `pikachufly` `pikachusurf` `1` `bulbasaur` `bulbasaur` `bulbasaur2` `bulbasaur3` `bulbasaur4` `charmander` `charizard` `charizard2` `charizard3` `charizard4` `charizard5` `charizard6` `charizard7` `charizard8` `charizard9` `charizard10` `squirtle` `blastoise` `pikachu` `pikachu2` `pikachu3` `pikachu4` `pikachu5` `pikachu6` `pikachu7` `pikachu8` `pikachu9` `gengar` `gengar2` `gyarados` `gyarados2` `gyarados3` `gyarados4` `gyarados5` `gyarados6` `eevee` `snorlax` `mewtwo` `mewtwo2` `mewtwo3` `mewtwo4` `mewtwo5` `mewtwo6` `mew` `mew2` `mew3` `mew4` `mew5` `entei` `entei2` `lugia` `lugia2` `lugia3` `lugia4` `hooh` `hooh2` `hooh3` `celebi` `celebi2` `treecko` `sceptile` `sceptile2` `torchic` `torchic2` `blaziken` `gardevoir` `salamence` `salamence2` `metagross` `metagross2` `kyogre` `kyogre2` `kyogre3` `groudon` `groudon2` `groudon3` `groudon4` `rayquaza` `rayquaza2` `rayquaza3` `rayquaza4` `deoxys` `deoxys2` `deoxys3` `deoxys4` `deoxys5` `piplup` `piplup2` `piplup3` `bidoof` `bidoof2` `430` `lucario` `lucario2` `lucario3` `lucario4` `lucario5` `454` `rotom` `rotom2` `rotom3` `rotom4` `rotom5` `rotom6` `rotom7` `rotom8` `rotom9` `rotom10` `rotom11` `rotom12` `rotom13` `dialga` `dialga2` `dialga3` `dialga4` `dialga5` `dialga6` `dialga7` `palkia` `palkia2` `palkia3` `palkia4` `giratina` `giratina2` `giratina3` `giratina4` `giratina5` `arceus` `497` `500` `503` `510` `521` `560` `567` `571` `589` `escavalier` `604` `606` `609` `haxorus` `haxorus2` `haxorus3` `accelgor` `625` `628` `630` `635` `641` `642` `reshiram` `reshiram2` `reshiram3` `reshiram4` `zekrom` `zekrom2` `645` `646` `kyurem` `kyurem2` `kyurem3` `kyurem4` `kyurem5` `kyurem6` `meloetta` `meloetta2` `meloetta3` `genesect` `genesect2` `genesect3` `genesect4` `genesect5` `genesect6` `greninja` `658` `700` `701` `703` `706` `715` `xerneas` `xerneas2` `xerneas3` `xerneas4` `yveltal` `yveltal2` `718` `718` `zygarde` `zygarde2` `zygarde3` `zygarde4` `zygarde5` `zygarde6` `zygarde7` `zygarde8` `zygarde9` `zygarde10` `hoopa` `hoopa2` `hoopa3` `722` `724` `727` `730` `740` `745` `760` `silvally` `mimikyu` `791` `solgaleo` `solgaleo2` `792` `lunala` `lunala` `794` `800` `necrozma` `necrozma2` `necrozma3` `necrozma4` `804` `zeraora` `zeraora2` `zeraora3` `zeraora4` `zeraora5` `cinderace` `inteleon` `inteleon2` `818` `820` `823` `832` `861` `864` `870` `888` `zacian` `zacian2` `zacian3` `zacian4` `zamazenta` `zamazenta2` `zamazenta3` `zamazenta4` `889` `890` `eternatus` `eternatus2` `eternatus3` `892` `897` `calyrex` `calyrex2` `calyrex3` `906` `907` `908` `909` `910` `911` `912` `913` `914` `armarouge` `ceruledge` `tatsugiri` `koraidon` `koraidon2` `miraidon` `miraidon2` `ogerpon` `ogerpon2` `ogerpon3` `ogerpon4` `ogerpon5` `ogerpon6` `ogerpon7` `ogerpon8` `ogerpon9` `terapagos` `terapagos2` `terapagos3`
+`pikachuash` `pikachufly` `pikachusurf` `1` `bulbasaur` `bulbasaur2` `bulbasaur3` `bulbasaur4` `charmander` `charizard` `charizard2` `charizard3` `charizard4` `charizard5` `charizard6` `charizard7` `charizard8` `charizard9` `charizard10` `squirtle` `blastoise` `pikachu` `pikachu2` `pikachu3` `pikachu4` `pikachu5` `pikachu6` `pikachu7` `pikachu8` `pikachu9` `gengar` `gengar2` `gyarados` `gyarados2` `gyarados3` `gyarados4` `gyarados5` `gyarados6` `eevee` `snorlax` `mewtwo` `mewtwo2` `mewtwo3` `mewtwo4` `mewtwo5` `mewtwo6` `mew` `mew2` `mew3` `mew4` `mew5` `entei` `entei2` `lugia` `lugia2` `lugia3` `lugia4` `hooh` `hooh2` `hooh3` `celebi` `celebi2` `treecko` `sceptile` `sceptile2` `torchic` `torchic2` `blaziken` `gardevoir` `salamence` `salamence2` `metagross` `metagross2` `kyogre` `kyogre2` `kyogre3` `groudon` `groudon2` `groudon3` `groudon4` `rayquaza` `rayquaza2` `rayquaza3` `rayquaza4` `deoxys` `deoxys2` `deoxys3` `deoxys4` `deoxys5` `piplup` `piplup2` `piplup3` `bidoof` `bidoof2` `430` `lucario` `lucario2` `lucario3` `lucario4` `lucario5` `454` `rotom` `rotom2` `rotom3` `rotom4` `rotom5` `rotom6` `rotom7` `rotom8` `rotom9` `rotom10` `rotom11` `rotom12` `rotom13` `dialga` `dialga2` `dialga3` `dialga4` `dialga5` `dialga6` `dialga7` `palkia` `palkia2` `palkia3` `palkia4` `giratina` `giratina2` `giratina3` `giratina4` `giratina5` `arceus` `497` `500` `503` `510` `521` `560` `567` `571` `589` `escavalier` `604` `606` `609` `haxorus` `haxorus2` `haxorus3` `accelgor` `625` `628` `630` `635` `641` `642` `reshiram` `reshiram2` `reshiram3` `reshiram4` `zekrom` `zekrom2` `645` `646` `kyurem` `kyurem2` `kyurem3` `kyurem4` `kyurem5` `kyurem6` `meloetta` `meloetta2` `meloetta3` `genesect` `genesect2` `genesect3` `genesect4` `genesect5` `genesect6` `greninja` `658` `700` `701` `703` `706` `715` `xerneas` `xerneas2` `xerneas3` `xerneas4` `yveltal` `yveltal2` `718` `zygarde` `zygarde2` `zygarde3` `zygarde4` `zygarde5` `zygarde6` `zygarde7` `zygarde8` `zygarde9` `zygarde10` `hoopa` `hoopa2` `hoopa3` `722` `724` `727` `730` `740` `745` `760` `silvally` `mimikyu` `791` `solgaleo` `solgaleo2` `792` `lunala` `794` `800` `necrozma` `necrozma2` `necrozma3` `necrozma4` `804` `zeraora` `zeraora2` `zeraora3` `zeraora4` `zeraora5` `cinderace` `inteleon` `inteleon2` `818` `820` `823` `832` `861` `864` `870` `888` `zacian` `zacian2` `zacian3` `zacian4` `zamazenta` `zamazenta2` `zamazenta3` `zamazenta4` `889` `890` `eternatus` `eternatus2` `eternatus3` `892` `897` `calyrex` `calyrex2` `calyrex3` `906` `907` `908` `909` `910` `911` `912` `913` `914` `armarouge` `ceruledge` `tatsugiri` `koraidon` `koraidon2` `miraidon` `miraidon2` `ogerpon` `ogerpon2` `ogerpon3` `ogerpon4` `ogerpon5` `ogerpon6` `ogerpon7` `ogerpon8` `ogerpon9` `terapagos` `terapagos2` `terapagos3` `ash` `red` `gold` `bulbasaur5` `rattata` `raichu` `magikarp` `zapdos` `zapdos2` `zapdos3` `zapdos4` `zapdos5` `moltres` `moltres2` `moltres3` `moltres4` `moltres5` `piplup4` `darkrai` `darkrai2` `darkrai3` `darkrai4` `diancie` `lunala2`
 
 ## Naruto (11)
 
 `naruto` `naruto2` `naruto3` `sasuke` `sasuke2` `sakura` `kakashi` `lee` `jiraiya` `itachi` `madara`
 
-## Dragon Ball (8)
+## Dragon Ball (11)
 
-`goku` `goku2` `vegeta` `frieza` `frieza2` `frieza3` `broly` `zeno`
+`goku` `goku2` `vegeta` `frieza` `frieza2` `frieza3` `broly` `zeno` `krillin` `gokublack` `gogeta`
 
 ## One Piece (4)
 
@@ -30,9 +30,9 @@
 
 `a700` `zenitsu` `tanjiro` `inosuke` `sanemi` `tokito` `giyu` `a701` `a705` `akaza` `rengoku` `shinobu` `nezuko` `muzan` `ds` `ds2` `ds3` `ds4` `ds5` `ds6` `ds7` `ds8` `ds9` `ds10` `ds11`
 
-## Jujutsu Kaisen (7)
+## Jujutsu Kaisen (8)
 
-`gojo` `yuji` `fushiguro` `nanami` `makizenin` `nobara` `panda`
+`gojo` `yuji` `fushiguro` `nanami` `makizenin` `nobara` `panda` `sakuna`
 
 ## Medabots (2)
 
