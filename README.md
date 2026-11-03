@@ -1,6 +1,6 @@
 # Character Roster
 
-581 playable characters.
+596 playable characters.
 
 ## Pokemon (370)
 
@@ -10,13 +10,13 @@
 
 `naruto` `naruto2` `naruto3` `sasuke` `sasuke2` `sakura` `kakashi` `lee` `jiraiya` `itachi` `madara` `hashirama`
 
-## Dragon Ball (12)
+## Dragon Ball (13)
 
-`goku` `goku2` `vegeta` `frieza` `frieza2` `frieza3` `broly` `zeno` `krillin` `gokublack` `gogeta` `beerus`
+`goku` `goku2` `vegeta` `frieza` `frieza2` `frieza3` `broly` `zeno` `krillin` `gokublack` `gogeta` `beerus` `vegito`
 
-## One Piece (5)
+## One Piece (6)
 
-`luffy` `luffy5` `luffyg5` `zoro` `sanji`
+`luffy` `luffy5` `luffyg5` `zoro` `sanji` `kaido`
 
 ## Yu-Gi-Oh (2)
 
@@ -38,9 +38,9 @@
 
 `metabee` `rokusho`
 
-## Digimon (17)
+## Digimon (20)
 
-`omedamon` `greymon` `wargreymon` `wargreymon2` `garurumon` `metalgarurumon` `omegamon` `agumon` `guilmon` `renamon` `terriermon` `growmon` `wargrowmon` `megaSeadramon` `alphamon` `blackwargreymon` `beelzebumon`
+`omedamon` `greymon` `wargreymon` `wargreymon2` `garurumon` `metalgarurumon` `omegamon` `agumon` `guilmon` `renamon` `terriermon` `angemon` `growmon` `wargrowmon` `megaSeadramon` `shoutmon` `alphamon` `blackwargreymon` `beelzebumon` `dukemonx`
 
 ## My Hero Academia (15)
 
@@ -94,10 +94,18 @@
 
 `iori`
 
+## Evangelion (4)
+
+`eva0` `eva1` `eva` `eva2`
+
+## Sailor Moon (5)
+
+`moon` `mercury` `mars` `jupiter` `venus`
+
 ## Other Anime (2)
 
 `dai` `shana`
 
-## Other (1)
+## Other (2)
 
-`spiderman`
+`spiderman` `anti`
